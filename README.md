@@ -25,10 +25,6 @@
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
- <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"/>
-  </a>
  <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
@@ -116,47 +112,10 @@
   </a>
 </p>
 
-----
-
-
-
-	
-
-## My Statistics 📈 
-<br/>
-<p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rahuljha4171&show_icons=true&count_private=true&theme=react"/>
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahuljha4171&theme=react"/>
-  
- </p>
- <br>
- 
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=rahuljha4171&theme=react-dark&hide_border=false">
-<p>
-  
-<p align='center'>
-<img width="49.5%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuljha4171&theme=react">
-<img width="49.5%" height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rahuljha4171&layuout=compact&theme=react">
-
-<p>
-  
------
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/rahuljha4171" target="_blank">
+<a href="https://www.linkedin.com/in/rishi-raj-474501289/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-  <a href="https://github.com/rahuljha4171" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?color=494949&style=for-the-badge&logo=Github&logoColor=white" alt="Github" style="margin-bottom: 5px;"/>
-</a>
-<a href="https://twitter.com/rahuljha4171" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/dead.programmer" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-</p>
 
 
